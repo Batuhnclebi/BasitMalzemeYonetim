@@ -1,0 +1,32 @@
+Önemli not: diagramlar için basit ekelemeler yaptım, database in nasıl kurulacağı ve proje nin source kodu nu ekledim daha detaylı diagramlar yapılabilir yada olan diagramlar düzeltilebilir.
+
+
+Sunumların Power Point ile hazırlanması gerekmektedir.
+
+Bunun için sunuma:
+
+1.Proje başlığı, projeyi hazırlayanların ad-soyadları ve öğrenci numaraları;
+
+2. Projenin içeriği ve amacı; proje c# dili ile yazılmış sql db bağlantılı bir malzeme kayıt projesidir. amacı malzeme takipi yapmak ve malzeme yönetimidir. nav bar a abc analizi gibi alanlar eklenilerek veriler üzerinden yapılacak işlemler çoğaltılabilir.
+
+3. Projede kullanılan teknolojiler; c#, microsoft sql server, 
+
+4.Use – case dokümantasyonu; eklendi
+
+5.Diyagramlar: eklendi
+
+5.1.Use – case diyagramı eklendi
+
+5.2.Class diyagramı eklendi
+
+5.3 Activity diyagramı eklendi
+
+5.4 Sequence diyagramı eklendi
+
+5.5 Veri tabanı diyagramı eklendi
+
+6. Veri tabanının içerdiği tabloların ekran görüntüleri
+
+eklenecektir. eklendi
+
+Ayrıca rar uzantılı dosyaya sunum, diyagramların kendileri, uygulamanın kodları konulacaktır. eklendi

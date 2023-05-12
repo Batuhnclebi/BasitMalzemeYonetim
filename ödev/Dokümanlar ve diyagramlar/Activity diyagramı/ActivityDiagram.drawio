@@ -1,0 +1,63 @@
+<mxfile host="app.diagrams.net" modified="2023-05-11T22:50:40.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="jjmavXpKfw0oJJNpE7PF" version="21.2.9" type="device">
+  <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
+    <mxGraphModel dx="1434" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Oparatör" style="swimlane;whiteSpace=wrap;startSize=23;" parent="1" vertex="1">
+          <mxGeometry x="150" y="128" width="380" height="462" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="" style="ellipse;shape=startState;fillColor=#000000;strokeColor=#ff0000;" parent="2" vertex="1">
+          <mxGeometry x="100" y="40" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="5" target="7" edge="1">
+          <mxGeometry x="100" y="40" as="geometry">
+            <mxPoint x="115" y="110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7" value="uygulamaya girilir" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="110" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="Gerekli alanlar &#xa;doldurulur" style="" parent="2" vertex="1">
+          <mxGeometry x="60" y="220" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="7" target="8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="Ekle butonuna&#xa;tıklanır" style="" parent="2" vertex="1">
+          <mxGeometry x="10" y="325" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" parent="2" source="8" target="10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--41" value="Sil butonuna&#xa;tıklanır" style="" vertex="1" parent="2">
+          <mxGeometry x="130" y="392" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--42" value="Güncelle butonuna&#xa;tıklanır" style="" vertex="1" parent="2">
+          <mxGeometry x="250" y="392" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--45" value="Tablodan satır&#xa;seçilir" style="" vertex="1" parent="2">
+          <mxGeometry x="140" y="325" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--46" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="8" target="D7QbgRx01ewrf_79IDL--45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="113" y="280" as="sourcePoint" />
+            <mxPoint x="87" y="335" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--47" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="D7QbgRx01ewrf_79IDL--45" target="D7QbgRx01ewrf_79IDL--41">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="123" y="290" as="sourcePoint" />
+            <mxPoint x="97" y="345" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="D7QbgRx01ewrf_79IDL--48" value="" style="endArrow=open;strokeColor=#FF0000;endFill=1;rounded=0" edge="1" parent="2" source="D7QbgRx01ewrf_79IDL--45" target="D7QbgRx01ewrf_79IDL--42">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="201" y="385" as="sourcePoint" />
+            <mxPoint x="199" y="402" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

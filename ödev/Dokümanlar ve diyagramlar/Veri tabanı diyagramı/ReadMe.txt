@@ -1,0 +1,1 @@
+İlişkili tablo yapısı bulunmadığından basit bir diagram çıkıyor birden fazla tablo yapısı olsa ve bu tablolar ID alanlarından ilişkili olsa örnekteki gibi bir diagram çıkacaktı.
